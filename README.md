@@ -52,7 +52,7 @@ The application provides a clean interface where users can upload their resume, 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs" />
 </p>
 
 ### Core Technologies
