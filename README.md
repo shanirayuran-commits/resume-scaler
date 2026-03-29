@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Resume Scaler</h1>
 <h3 align="center">ATS Resume Analyzer • Optimization Suggestions • Clean UI</h3>
 
