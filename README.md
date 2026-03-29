@@ -73,15 +73,7 @@ The application provides a clean interface where users can upload their resume, 
 
 ## Live Demo
 
-(Coming Soon)  
-Replace with your deployed link:
-
-```
-
-[https://your-vercel-or-netlify-link-here](https://your-vercel-or-netlify-link-here)
-
-````
-
+https://ratemyresume0.netlify.app/
 ---
 
 ## Installation
