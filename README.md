@@ -71,9 +71,8 @@ The application provides a clean interface where users can upload their resume, 
 
 ---
 
-## Live Demo
+## [Live Demo](https://ratemyresume0.netlify.app/)
 
-https://ratemyresume0.netlify.app/
 ---
 
 ## Installation
